@@ -1,0 +1,13 @@
+﻿  Source2.cpp
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(274): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\source2.cpp(339): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\nflou\documents\visual studio 2017\projects\cs480\project3\project1\project1\bst2.h(197): warning C4715: 'BinarySearchTree<Node *>::insert': not all control paths return a value
+  Project1.vcxproj -> C:\Users\nflou\Documents\Visual Studio 2017\Projects\cs480\Project3\Project1\Debug\Project1.exe
